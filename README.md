@@ -1,2 +1,15 @@
 # OCR_pytesseract
-Exemplo básico de OCR utilizando o framework pytesseract, onde o objetivo é criar um programa em Python no qual extrai o texto de no mínimo 8 páginas de um PDF e salve em arquivos 'txt' separados para cada página.
+## Visão Geral
+Este é um script Python para extrair texto de arquivos PDF usando a biblioteca Pytesseract para OCR (Reconhecimento Óptico de Caracteres).
+
+## Instalação
+Para executar este script, você precisa ter Python instalado em seu sistema. Você também precisa instalar os seguintes pacotes:
+
+```bash
+pip install pdf2image pytesseract Pillow
+
+## ou executar o arquivo requirements.txt da seguinte forma:
+
+pip install -r requirements.txt
+
+Certifique-se de ter o Tesseract OCR instalado em seu sistema.
