@@ -1,0 +1,37 @@
+2.12 CRAWLER
+
+Um "crawler" é um programa de software ou um script que percorre a web de
+forma sistemática, automatizada e metódica para coletar informações de diferentes
+sites. Também conhecido como "spider" ou "web crawler", ele navega pelas páginas
+da web, segue os links internos e extrai dados relevantes, como texto, imagens,
+URLs e metadados(IBM, 2022a).
+
+2.13 CSV (COMMA-SEPARATED VALUES)
+
+CSV (Comma-Separated Values) é um formato de arquivo amplamente
+utilizado para armazenar dados tabulares. Como o nome sugere, os valores são
+separados por vírgulas em um arquivo CSV. É um formato simples e comum que
+pode ser facilmente lido e manipulado por programas de planilhas, bancos de dados
+
+e outras aplicações(The Internet Society, 2005).
+
+2.14 K-MeANS
+
+O K-means é um algoritmo de aprendizado de máquina não supervisionado
+utilizado para agrupar dados em clusters. O objetivo do algoritmo é particionar um
+conjunto de dados em grupos ou clusters, onde os pontos dentro de um mesmo
+cluster são mais semelhantes entre si do que com pontos de outros
+clusters(IBM,2022b).
+
+O resultado final do algoritmo K-means é um conjunto de "k" clusters, onde
+cada ponto de dado pertence a um cluster específico. O algoritmo busca minimizar a
+variância dentro de cada cluster e maximizar a variância entre os clusters.
+
+É importante observar que o resultado do algoritmo K-means pode variar
+dependendo da inicialização aleatória dos centroides, e diferentes execuções podem
+levar a diferentes agrupamentos. Portanto, é comum executar o algoritmo várias
+vezes e escolher o resultado que apresenta o melhor critério de avaliação, como a
+
+menor soma dos erros quadrados ou o maior coeficiente de silhueta.
+
+18

@@ -1,0 +1,52 @@
+Figura 17 - Jogos comprados por Clusters
+
+X: Games Buyed (Num) v — Y: Cluster (Nom)
+
+Colour: Cluster (Nom) v — Selectinstance
+
+Reset Clear Open Save Jter O
+
+Plot: dados final final - dados.csv (5)-weka.filters.unsupervised.attribute.Remove-R1,21-weka.filters.unsupervised,.attribute.Normalize-S1.0-T0.0-...
+
+7 T——— A X : s o
+
+1
+eu
+18
+utd XX X 10x x xx x x x
+s
+te
+
+UTONMOOIEE mo o x x
+
+c
+1
+v XOOXXXO 28 NOECECIOR X0NOO0 X
+s
+t
+
+o o.s 1
+Class colour
+
+cluster0 clusterl cluster2 cluster3 cluster4 cluster5 cluster€
+
+FONTE: O AUTOR (2023)
+
+5 CONCLUSÕES
+
+Verificamos que a parcela de usuário brasileiro analisados da Steam busca
+por jogos de menor valor, e aqueles que possuem maiores valores de conta buscam
+variar sua biblioteca com jogos baratos, uma certa forma de colecionismo, situação
+provavelmente motivada pela parte do ranqueamento da plataforma quanto a
+conquistas e quantidade de jogos disponíveis na biblioteca. Outra característica que
+se pode observar é que o colecionismo favorece a questão de se ter vários jogos
+que nunca foram jogados, situação que compromete questões de mercado, como a
+análise de uso e tempo médio dos jogos.
+
+Retornando a Teoria da Ação Racional, podemos estabelecer relação entre os
+temas de consumismo e colecionismo. O consumismo é um comportamento
+caracterizado pelo consumo excessivo e pela busca constante por novos produtos.
+
+Ele pode ser influenciado pelas atitudes das pessoas em relação aos bens de
+
+36

@@ -1,0 +1,35 @@
+MA
+
+Onde n é o tamanho da amostra, o é o desvio padrão populacional desejado
+ezéoscore de nível de confiança desejado, encontrado em uma tabela de
+distribuição normal padrão. Neste estudo, utilizaremos o nível de confiança de 95%,
+ou seja, Z=1.96 (TRIOLA,2017).
+
+2.3 APIs
+
+API é a sigla para Application Programming Interface (Interface de
+Programação de Aplicativos, em português). Ela é um conjunto de regras e
+protocolos que permite a comunicação e interação entre diferentes softwares. Em
+termos simples, uma API define como os componentes de software devem se
+comunicar e interagir uns com os outros. Uma API atua como uma camada de
+abstração que permite que os desenvolvedores acessem e utilizem funcionalidades
+específicas de um software ou serviço sem precisar conhecer todos os detalhes
+internos de sua implementação. Através de uma API, os desenvolvedores podem
+enviar solicitações e receber respostas estruturadas, utilizando um conjunto de
+métodos e parâmetros definidos(IBM,2023a)
+
+As APIs podem ter diferentes finalidades e funcionalidades. Elas podem
+permitir que um software acesse recursos de outro software, como bancos de dados,
+serviços web, sistemas operacionais, bibliotecas de funções, entre outros. As APIs
+também podem fornecer funcionalidades específicas, como processamento de
+pagamentos, integração de redes sociais, acesso a dados em tempo real e muitas
+
+outras.
+2.4 PLATAFORMA STEAM
+
+A plataforma Steam é uma plataforma de distribuição digital de jogos para
+computadores desenvolvida pela Valve Corporation. Ela foi lançada em 2003 e se
+
+tornou uma das principais plataformas de jogos para PC (VALVE, 2023).
+
+13

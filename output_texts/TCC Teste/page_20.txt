@@ -1,0 +1,42 @@
+de 2018 é brasileira, o que é cerca de 4 milhões dos usuários, dos 90 milhões ativos
+naquele ano (Statista, 2021).
+
+Para o engajamento dos dados será utilizada as APIs, onde a API da Steam
+se acessa com o |D do usuário, criando assim um banco de dados para o
+armazenamento e tratamento dos mesmos, utilizando filtros como país de origem da
+conta e se a conta é pública ou não, e por meio de análises descritiva e diagnóstica
+serão desenvolvidos os resultados, buscando responder as questões pertinentes a
+esse estudo, como padrões de consumo de tempo de jogo, valores monetários e
+médias entre os dados. A análise descritiva demonstra dados como padrão de
+consumo, faixa de preço de jogos mais comprados, enquanto a diagnóstica irá tentar
+achar padrões de compras ligados a compras por impulsos e porcentagem de jogos
+jogados. A pesquisa se qualifica como quantitativa, visto que será realizada a coleta
+dos dados e aplicação dos mesmo em softwares analíticos, com o objetivo de
+apresentar os resultados e interpretar as respostas subjetivas encontradas. Para o
+armazenamento dos dados será criado um banco de dados em planilha CSV, e a
+aplicaremos no software Weka, para identificarmos padrões com auxílio da
+
+mineração de dados.
+
+Para a mineração dos dados citada, as seguintes APIs disponíveis da Steam
+e o sistema SteamDB para o levantamento dos dados estão disponíveis:
+
+GetPlayerSummaries: Retorna dados como URL do usuário, ID da conta,
+código de país e privacidade da conta.
+
+GetOwnedGames: Retorna dados como a lista de jogos do ID informado, total
+de horas jogadas nas últimas 2 semanas, em toda a vida da conta.
+
+SteamDB: Site que busca armazenar dados da plataforma da Steam,
+utilizando as APIs da Steam para realizar buscas e demonstrar de forma simplificada
+ao usuário os dados encontrados. Fornece um sistema de calculadora de contas que
+informa dados retirados das outras APIs citadas acima, de forma simplificada.
+
+Deve-se levar em  consideração as limitaçções impostas  pelos
+desenvolvedores das plataformas utilizadas, onde nas APIs da Steam pode-se
+realizar duas mil pesquisas diárias por chave de utilizador, um código de acesso a
+API dada a cada usuário da Steam, e a limitação temporária de cerca de 70
+
+pesquisas diárias por IP na SteamDB, o que criou uma necessidade de uso de um
+
+20

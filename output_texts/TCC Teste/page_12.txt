@@ -1,0 +1,36 @@
+2 REFERENCIAL TEÓRICO
+
+Para entendermos melhor os conceitos que utilizaremos neste estudo, iremos
+desenvolvê-los de forma separada, para que todos os assuntos sejam abordados e
+
+juntos auxiliem na compreensão dos temas abordados de forma conjunta.
+
+2.1 COMPORTAMENTO DO CONSUMIDOR
+
+Resume-se ao conjunto de ações que tenham relação com o processo de
+consumo ou aquisição de serviços, bens de consumo, atividades, experiências,
+pessoas ou ideias, pelo processo de escolhas pelo tempo (Hoyer et al,2012) ou seja,
+como indivíduos, grupos e organizações selecionam, usam e disponibilizam
+produtos e bens de consumo, para satisfazer suas necessidades e desejos
+(Solomon M.,2006). Existem teorias de como o comportamento funciona, sendo que
+a A Teoria da Ação Racional (TAR - Martin Fishbein, 1963) funciona como uma base
+para a que iremos utilizar no estudo, ela busca explicar de forma matemática que os
+seres humanos são racionais e utilizam as informações encontradas para avaliar seu
+próprio comportamento, e assim definirem o que será realizado. Nessa teoria,
+podemos encontrar o fator das crenças, informações que o indivíduo tem sobre o
+objeto, atributos, etc., e essas podem ser comportamentais, ou seja, intrigada ao
+indivíduo, ou normativas, as quais são julgadas pelo meio que ele se encontra, a
+
+pressão social que sofrerá caso realize ou não tal comportamento.
+
+2.2 ESTATÍSTICA E POPULAÇÃO
+
+A estatística engloba uma série de conceitos fundamentais para a
+compreensão e análise de dados. A população refere-se ao conjunto completo de
+elementos que são de interesse na pesquisa, enquanto a amostra é um subconjunto
+representativo selecionado da população. Para o seguinte estudo, utilizaremos o
+cálculo de tamanho da amostra, que nos retorna o intervalo de confiança, de acordo
+
+com a seguinte fórmula:
+
+12

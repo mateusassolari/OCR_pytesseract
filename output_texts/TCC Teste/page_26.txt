@@ -1,0 +1,67 @@
+FONTE: O AUTOR (2023)
+
+Para a análise foi utilizado o pré-processamento para que todos os dados
+fossem normalizados, para assim facilitar a visualização dos dados, e
+posteriormente os dados de ID excluídos da análise, visto que eram somente para
+identificação. Para identificarmos os melhores atributos, utilizamos a área de
+Selecionar atributos disponível no Weka, com isso, podemos identificar os atributos
+que possuem maior significância para a análise. Utilizando o processo de
+correlação, normalmente referido como coeficiente de correlação de Pearson,
+podemos encontrar o grau de correlação entre duas variáveis em escala métrica,
+mas na ferramenta utilizada, ele retorna um ranking de importância dos
+
+atributos(Figura 5).
+
+Figura 5 - Ranking de Atributos
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+Attribute ranking.
+
+Attribute Evaluator (supervised, Class (numeric): 18 Total de Horas Jogadas):
+Correlation Ranking Filter
+
+Ranked attributes:
+
+.352859 17 12 0r more hours
+
+.167662 2 No price
+
+.128479 9 Games owned
+
+109664 14 2 to3 hours
+
+.093852 11 Never played
+
+.069725 4 R$ 6.99 â€” R$ 20.49
+
+.053858 3 R$ 0.01 â€” R$ 6.99
+
+.052602 10 Games Buyed
+
+.036102 5 R$ 20.49 â€” R$ 35.79
+
+.01662 1 Valor da Conta
+
+0.014557 131 to2 hours
+
+—0.000945 6 R$ 35.79 â€” R$ 107.99
+
+—0.010462 15 3 to6 hours
+
+—0.010994 12 0tol hours
+
+—0.019522 7 R$ 107.99 â€” R$ 148.99
+
+—0.020152 16 6 to 12 hours
+
+—0.025619 8 R$ 14.899 and higher
+
+ococoooooco
+
+Selected attributes: 17,2,9,14,11,4,3,10,5,1,13,6,15,12,7,16,8 : 17
+
+FONTE: O AUTOR (2023)
+
+26

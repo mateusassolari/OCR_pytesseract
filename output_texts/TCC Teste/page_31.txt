@@ -1,0 +1,25 @@
+valores, e ao observarmos os outros valores, é possível perceber que quanto maior
+o valor, mais concentrado ao ponto 0.0 o gráfico se torna. Podemos assim definir
+que grande parte do grupo analisado tem preferência por jogos de valores mais
+
+baixos, visto que esses correspondem a uma parcela maior de suas bibliotecas.
+
+Figura 10 - Jogos de R$0.01 a R$6.99 por jogos comprados
+
+X: R$ 0.01 â€” R$ 6.99 (Num) v — Y: Games Buyed (Num)
+
+Colour: Cluster (Nom) Y || SelectInstance
+
+Reset Clear Open Save Jite O
+
+Plot: dados final final - dados.csv (5)-weka.filters.unsupervised,.attribute.Remove-R1,21-weka.filters.unsupervised.;
+
+o o.5 1
+
+Class colour
+
+eluster0 clusterl cluster?2 cluster3 cluster4á clusterS cluster6
+
+FONTE: O AUTOR (2023)
+
+31

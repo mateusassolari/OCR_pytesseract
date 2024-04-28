@@ -1,0 +1,31 @@
+2.6 BANCO DE DADOS
+
+Um banco de dados é um conjunto organizado de informações estruturadas
+que são armazenadas e gerenciadas em um sistema computacional. Ele é projetado
+para armazenar, recuperar, atualizar e gerenciar grandes volumes de dados de
+forma eficiente e confiável. Os bancos de dados são amplamente utilizados em
+diversas áreas, desde empresas e organizações governamentais até aplicações
+pessoais. Eles fornecem uma estrutura centralizada para armazenar dados de forma
+persistente, permitindo o acesso rápido e seguro às informações quando
+necessário(IBM,2023b).
+
+2.7 WEKA
+
+Weka é um software de código aberto desenvolvido pela Universidade de
+Waikato, na Nova Zelândia, que fornece uma ampla gama de ferramentas e
+algoritmos para análise de dados e mineração de dados. O nome "Weka" é uma
+abreviação para "Waikato Environment for Knowledge Analysis". É amplamente
+utilizado por pesquisadores, cientistas de dados e profissionais da área de
+aprendizado de máquina e mineração de dados. Ele oferece uma interface gráfica
+intuitiva que permite aos usuários carregar conjuntos de dados, pré-processá-los,
+
+visualizá-los e aplicar diversos algoritmos de análise de dados(Weka, 2023).
+
+2.8 MÉTODO DE APRENDIZAGEM NÃO SUPERVISIONADO
+O aprendizado não supervisionado é uma abordagem em que os dados não
+
+são rotulados ou classificados previamente, e o objetivo é encontrar padrões,
+
+estruturas ou agrupamentos intrínsecos nos dados (IBM,2023c).
+
+15

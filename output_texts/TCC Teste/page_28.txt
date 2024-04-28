@@ -1,0 +1,33 @@
+Cruzando os dados com os ranking identificado anteriormente, foram
+definidas as seguintes associações a serem analisadas:
+
+4.1 JOGOS COMPRADOS POR VALOR DA CONTA
+
+Na distribuição dos casos, pode-se perceber que grande parte das contas
+ficam acumuladas na esquerda inferior do gráfico, ou seja, baixos valores de conta
+com poucos jogos comprados, demonstrando assim que o grupo de usuários
+analisado não possui grande variância de perfil de consumo no caso, sendo
+observados casos isolados de contas com valores altos e pouco volume de jogos, ou
+
+grande volume de jogos mas com valores de conta baixo(Figura 7).
+
+Figura 7 - Cluster - Jogos comprados por Valor da Conta
+
+X: Games Buyed (Num) vY | YV: Valor da Conta (Num)
+
+Colour: Cluster (Nom) Select Instance
+
+Clear Open Save Jite O
+
+Plot: dados final final - dados.csv (5)-weka.filters.unsupervised.attribute.Remove-R1,21-weka.filters.unsupervised.attribute.Normalize-
+x
+
+o o0.s5 1l
+
+Class colour
+
+clustero clusterl cluster2 cluster3 cluster4 cluster5 cluster6
+
+FONTE: O AUTOR (2023)
+
+28

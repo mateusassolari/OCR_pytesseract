@@ -1,0 +1,14 @@
+Realizar análises dos clusters desenvolvidos, para que se crie grupos com
+definições aplicáveis para toda a plataforma, de forma que auxiliem o usuário a
+compreender melhor seus padrões de consumo e aproveitamento de jogos,
+características que auxiliam na identificação do usuário na plataforma e grupo
+pertencente no meio.
+
+A análise pode ser aplicada em diversas regiões ou grupos, realizar estudos
+com o objetivo de criar um padrão de consumo regional para compreendermos
+melhor o mercado de certas regiões e assim ter melhor entendimento de como
+realizar o lançamento de jogos e faixas de preços aplicáveis de acordo com o
+
+público da região alvo.
+
+38

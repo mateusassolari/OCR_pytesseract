@@ -1,0 +1,6 @@
+LISTA DE ABREVIATURAS OU SIGLAS
+
+API - Application Programming Interface (Interface de Programação de Aplicativos).
+ID - Identity (identidade).
+
+CSV - Comma-separated values (valores separados por vírgulas).

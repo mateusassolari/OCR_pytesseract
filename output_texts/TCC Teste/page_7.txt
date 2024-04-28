@@ -1,0 +1,37 @@
+SUMÁRIO
+
+1 INTRODUÇÃO.....ccósóssssiesisss ss san 8
+1.1 OBJETIVOS DA PESQUISA........iiic o 8
+1.1.1 Objetivos Gerais......iidceicce e 9
+1.1.2 Objetivos ESpecíficoS........iiiiie ee 9
+1.2 JUSTIFICATIVA......iciicciiii : 9
+2 REFERENCIAL TEÓRICO.......cissssisnnsssessesss 12
+2.1 COMPORTAMENTO DO CONSUMIDOR........iiiiiic s 12
+2.2 ESTATÍSTICA E POPULAÇÃO........ iiin 12
+2.3 APIS...ec o 13
+2.4 PLATAFORMA STEAM.. .. 18
+2.5 STEAMDB.......iincc 14
+2.6 BANCO DE DADOS.......tiiicic 15
+2.7 WEKRA....ccci o 15
+2.8 MÉTODO DE APRENDIZAGEM NÃO SUPERVISIONADO.........ciicicies 15
+2.9 STEAM LADDER........iiiicic s 16
+2.10 LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS.........iii 16
+2.11 CONFIGURAÇÕES DE PERFIL DA STEAM.........iicsns 16
+2.12 CRAWLER......cii o
+
+2.13 CSV (COMMA-SEPARATED VALUES).
+2.14 K-MEeans..... iii
+
+3 METODOLOGIA DE PESQUISA........tisciiennne ee
+
+4 RESULTADOS.......cssssieensssnen a
+
+4.1 JOGOS COMPRADOS POR VALOR DA CONTA........ciisiiicssssssanes 28
+4.2 JOGOS ADQUIRIDOS POR JOGADOS MAIS DE 12 HORAS... ...29
+4.3 JOGOS ADQUIRIDOS POR JOGOS NUNCA JOGADOS..........iviiioo 30
+4.4 VALORES DE JOGOS POR QUANTIDADE DE JOGOS COMPRADOS...........iiiiooo 30
+4.5 JOGOS SEM VALOR POR JOGOS COMPRADOS..........iisisisicisssssenos 34
+4.6 JOGOS COMPRADOS POR CLUSTERS........ iii 35
+5 CONCLUSÕES.......ccsisiconsssesene n 36
+6 TRABALHOS FUTUROS.......isósonssee ss 37
+REFERÊNCIAS.......ccôciesesssse aa 39

@@ -1,0 +1,40 @@
+1.1.1 OBJeETIVOS GERAIS
+
+Este artigo de pesquisa tem como objetivo investigar como o usuário
+brasileiro jogador compra e aproveita seus jogos digitais, respondendo seus padrões
+de consumo de acordo com horas jogadas, porcentagem de jogos que foram
+jogados, e quais as faixas de preços que o usuário costuma gastar, sugerindo assim
+uma nova forma de realização de pesquisa do mercado consumidor de jogos
+
+brasileiro.
+
+1.1.2 OBJETIVOS EsPEeCÍFICOS
+
+e Criar sistema de agrupamentos dos usuários de acordo com suas
+particularidades.
+
+e lIdentificar padrões de consumo do público brasileiro na plataforma.
+
+e lIdentificar a faixa de preço mais comum dos jogos que o público brasileiro tem
+interesse, identificando assim quais os tipos de jogos que são mais prováveis
+de grande números de vendas de acordo com seu valor.
+
+e Realizar a formatação dos dados de horas de jogo, quantidade de jogos na
+biblioteca, e valores de conta, adquiridos na plataforma Steam e como eles se
+
+relacionam no sistema da plataforma.
+
+1.2 — JUSTIFICATIVA
+
+Segundo a Pesquisa da Indústria Brasileira de Games (2022), são
+encontrados cerca de 12 mil empregos relacionados no Brasil com a área de
+desenvolvimento de jogos, demarcando assim um crescimento de 600% no
+mercado, faturando mais de 80 milhões de reais no último ano. No ano de 2014 foi
+realizado o Primeiro Censo da Indústria Brasileira de Jogos Digitais, pela
+GEDIGames, que aborda informações acerca da indústria dos games, como os
+desenvolvedores, associações, perfil corporativo, comercial e outras diversas
+informações, demonstrando que o mercado está em crescimento na área de
+
+desenvolvimento internamente no Brasil. No segundo censo, realizado em 2018 pela
+
+9

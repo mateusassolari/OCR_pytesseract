@@ -1,0 +1,38 @@
+sistema de mudança de IP para evitar-se o bloqueio e comprometimento temporal
+da pesquisa. Para a identificação dos IDs dos usuários, foi realizada a filtragem das
+listas fornecidas na Steam Ladder, focando, assim, nos usuários que possuem
+dados disponíveis na plataforma, ainda sendo necessário identificar dados como
+país de origem e a abertura da conta.
+
+Para o processo foram utilizadas em conjunto as três plataformas citadas, da
+seguinte forma:
+
+1 - Utilizando a API GetPlayerSummaries, iremos verificar se esse usuário
+encontrado tem sua Steam como Brasileira e se é pública, caso sim, iremos
+armazenar o seu |D.
+
+2 - Posteriormente, iremos realizar a utilização da API GetOownedGames, que
+retorna a lista de jogos, visto que ter uma conta pública na plataforma é diferente de
+ter sua biblioteca pública, então caso retorne ao menos um jogo como resposta, a
+biblioteca do usuário é pública e poderemos retornar as informações de sua conta
+
+3 - Utilizando um Crawler, realizaremos a busca na plataforma SteamDB;,
+retornando os seguintes dados e inserindo-os em uma planilha CSV para aplicação
+no software Weka, para posterior análise. Os dados encontrados na página da
+SteamDB e suas definições são as seguintes (Figura 1).
+
+Figura 1 - Definição dos dados encontrados.
+
+Account value
+
+years Online $ Share
+
+out of games played % 1 900 XP to next level
+
+R$ 41,18/ R$15,90 | 7,743h / 19.0h
+
+Games by time pla
+
+FONTE: STEAMDB (2023)
+
+21

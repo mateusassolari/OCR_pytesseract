@@ -1,0 +1,48 @@
+4.2 JOGOS ADQUIRIDOS POR JOGADOS MAIS DE 12 HORAS
+
+A grande concentração de casos próximos de zero no eixo Y demonstra que
+
+os usuários do grupo analisado possuem poucos jogos em que ele jogou mais de 12
+
+horas, demonstrando assim que os usuários analisados não possuem o costume de
+
+focar somente em um jogo por um longo tempo. O grupo analisado tem um padrão
+
+de não jogar os jogos que possui por tempo considerado extenso, demonstrando
+
+assim que os mesmos possam ter problemas com o aproveitamento dos produtos
+
+comprados(Figura 8).
+
+Figura 8 - Jogos Adquiridos por jogados mais de 12 horas
+
+X: Games owned (Num) Y: 12 or more hours (Num)
+
+Colour: Cluster (Nom) v — SelectInstance
+
+Clear Open Save Jiter &
+
+Plot: dados final final - dados.csv (5)-weka.filters.unsupervised.attribute.Remove-R1,21-weka.filters.unsupervised,attribute.Normalize-S1.0-T0.0-...
+
+x
+
+x
+2 X
+
+" x
+
+x
+
+Xx x X
+
+x ES A " x
+o Meieiiaaandado e u sa ol x x
+o 0.5
+
+Class colour
+
+cluster0 clusterl cluster?2 cluster3 cluster4 cluster5 cluster€
+
+FONTE: O AUTOR (2023)
+
+29

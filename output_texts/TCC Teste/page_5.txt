@@ -1,0 +1,28 @@
+ABSTRACT
+
+The digital gaming industry has experienced significant growth in recent years,
+and the Brazilian market is no exception. With the advancement of technology and
+the popularization of digital distribution platforms, such as Steam, it has become
+essential to understand the behavior of Brazilian users in this environment.
+
+Ih this context, this article describes an analysis of data from Brazilian users of
+the Steam platform, using the API provided by the platform to gather information
+about their gaming consumption habits. The resulting database was applied to the
+Weka software, which is a data mining tool, in order to identify patterns and
+interesting insights about the behavior of Brazilian users.
+
+This finding may be relevant to both the Steam platform and game developers,
+providing insights into the behavior of the Brazilian market. Developers can adjust
+their pricing and content strategies to better cater to the preferences of Brazilian
+users. Additionally, Steam can target specific marketing campaigns to this audience,
+highlighting lower-value games and offering additional benefits to encourage greater
+engagement.
+
+This analysis demonstrates the usefulness of the Steam API for collecting
+valuable user data and the effectiveness of the Weka software in mining this data.
+The combination of these tools allows for deeper and more accurate analysis of user
+behavior, providing valuable information for strategic decision-making and service
+
+personalization in the gaming industry.
+
+Keywords: Digital Games; Consumption Patterns; Data Analysis

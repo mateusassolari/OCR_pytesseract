@@ -1,0 +1,38 @@
+consumo. De acordo com a TAR, a intenção de compra de um determinado produto
+é determinada pela atitude que o consumidor tem em relação a esse produto, bem
+como pela avaliação subjetiva da utilidade e das consequências dessa compra. No
+caso analisado, podemos relacionar a relação do consumidor com o marketing
+imposto pelo jogo, o que o usuário espera ao adquirir o jogo na plataforma e como
+ele irá jogar, como isso irá relacionar ele dentro da plataforma e se ele se ele está
+incluso em um grupo que esteja jogando e comentando sobre o produto. Quanto ao
+colecionismo, que envolve a acumulação e a exibição de objetos específicos, a TAR
+pode ser aplicada de forma semelhante. Os colecionadores podem desenvolver
+atitudes positivas em relação à atividade de colecionar, baseadas na satisfação
+pessoal de possuir itens raros, no prazer estético ou no sentido de identidade que a
+coleção proporciona. A intenção de expandir uma coleção ou adquirir novos itens
+pode ser influenciada pela atitude do colecionador em relação a essa atividade e
+pelos benefícios percebidos em adquirir novos itens. No caso estudado, podemos
+relacionar o ato de colecionar a exibição de uma grande biblioteca, maior variedade
+de itens para seu perfil, ou até mesmo o ranqueamento de sua conta em sistemas
+como o Steam Ladder.
+
+Sobre os valores dos jogos, quanto maior o valor do game, menos compras,
+demonstrando assim que o usuário brasileiro não tem grande foco em comprar os
+chamados Triplos As, os jogos de grandes estúdios que normalmente passam o
+valor de R$150 reais, dessa forma que o foco do grupo analisado é em jogos de
+menor custo, informação que deve ser levado em consideração para a região.
+
+Quanto à clusterização encontrada, grande parte dos usuários se encontra
+em um mesmo grupo, demonstrando assim que grande parte dos usuários tem um
+
+padrão de consumo e horas jogadas em comum.
+6 TRABALHOS FUTUROS
+
+Devido a limitações das APIs utilizadas, o estudo teve que se limitar a um
+grupo específico, mas a situação pode ser contornada com mais tempo disponível
+
+para o desenvolvimento da base de dados, que pode ser aplicada em conjunto a
+
+outras informações disponíveis por meio de outras APIs.
+
+37

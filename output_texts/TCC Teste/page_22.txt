@@ -1,0 +1,34 @@
+1. País de identificação do usuário (o país da sua conta é definido pelo usuário,
+sendo assim a única forma de identificação de nacionalidade possível em
+uma conta de forma pública).
+
+2. Valor da conta, considerando os menores valores encontrados para os jogos
+cadastrados no perfil do usuário, em toda a vida corrida do jogo.
+
+3. Porcentagem de jogos que o usuário jogou, ao menos uma vez.
+
+4. Preço médio de jogos, ou seja, o valor da conta divido pelo número total de
+jogos possuídos.
+
+5. Média de valor entre preço total e número de horas jogadas.
+
+6. Número de horas jogadas.
+
+7. Tempo médio de jogo em cada jogo.
+
+8. Preço nos valores atuais da conta, considerando os preços encontrados no
+
+dia da pesquisa.
+
+9. Número de jogos jogados na conta, de acordo com a distribuição de horas,
+sendo esses divididos em 7 classificações, de 12 horas ou mais de jogo, a
+nunca jogados.
+
+10.Jogos encontrados divididos por seus custos,sendo estes divididos em 7
+classificações, de valores acima de R$148,99 reais, até jogos de graça.
+
+Após a criação do CSV, utilizou-se o software Weka para encontrar similaridades
+
+entre os usuários encontrados.
+
+22

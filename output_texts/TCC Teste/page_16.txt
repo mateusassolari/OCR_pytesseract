@@ -1,0 +1,40 @@
+2.9 STEAM LADDER
+
+Steam Ladder é um site e serviço online que oferece informações e
+estatísticas detalhadas sobre usuários e jogos da plataforma de distribuição digital
+de jogos para PC, a Steam. A plataforma Steam Ladder rastreia e compila dados de
+perfis de jogadores da Steam, fornecendo rankings, conquistas, estatísticas de
+jogos, horas jogadas, entre outros dados (Steam Ladder,2023).
+
+O objetivo principal da Steam Ladder é fornecer aos usuários da Steam uma
+plataforma para acompanhar e comparar seu progresso em jogos, ver seu ranking
+em relação a outros jogadores e descobrir informações detalhadas sobre suas
+estatísticas de jogos. Além disso, a Steam Ladder oferece recursos de busca e
+filtragem para explorar jogadores e jogos específicos, bem como a possibilidade de
+criar listas de amigos e grupos.
+
+No geral, a Steam Ladder é uma ferramenta útil para os jogadores da Steam
+que desejam monitorar seu desempenho, comparar-se com outros jogadores e
+
+explorar estatísticas e conquistas de jogos.
+
+2.10 LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS
+
+Para a realização do estudo, devemos armazenar dados das IDs dos usuários
+encontrados, situação que deve-se evitar de acordo com a Lei nº 13709 (Brasil,
+2018), a chamada Lei geral de proteção de dados pessoais, portanto, após feita a
+mineração dos dados, devemos descaracterizá-los de forma que não seja possível
+encontrar o perfil original do usuário visado, e os IDs utilizados devem ser
+
+descartados.
+
+2.11 CONFIGURAÇÕES DE PERFIL DA STEAM
+
+A plataforma Steam fornece configurações de perfil dos usuários da Steam,
+sendo este, é quem define se seus dados serão públicos, se a lista de jogos será
+
+pública e a nacionalidade da conta, portanto os dados visados neste estudo podem
+
+estar sujeitos a erros, visto que os usuários podem ou não ser brasileiros, e vários
+
+16

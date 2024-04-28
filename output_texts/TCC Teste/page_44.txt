@@ -1,0 +1,8 @@
+Commerce Research, [S.L.], v. 14, n. 3, p. 17-33, set. 2019. MDPI AG. Disponível
+em: http://dx.doi.org/10.4067/s0718-18762019000300103 .
+
+Weka. Weka 3: Machine Learning Software in Java. 2023. Disponível em:
+
+https://www.cs.waikato.ac.nz/ml/weka/
+
+44

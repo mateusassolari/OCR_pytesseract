@@ -1,0 +1,57 @@
+Figura 16 - Jogos sem valor por Jogos comprados
+
+X: No price (Num) Y: Games Buyed (Num)
+
+Colour: Cluster (Nom) Select Instance
+
+Clear Open Save Jitter O
+
+Plot: dados final final - dados.csv (5)-weka.filters.unsupervised,attribute.Remove-R1,21-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-...
+
+x
+1
+x
+x
+" x
+x
+x”
+x ” " x
+0.57 x ”
+x x
+x
+x ” x " x x
+x
+* x x
+P TAA “x
+x
+x
+ES
+x x
+x
+x x
+n Nx X X xx
+ó É x Xx x x
+Ã A x *
+PAPELA x x x
+x x
+x a x x x xÃ
+xx
+T
+o o0.5 1l
+Class colour
+
+cluster0 clusterl cluster2 cluster3 cluster4 clusterS cluster6
+
+FONTE: O AUTOR (2023)
+
+4.6 JOGOS COMPRADOS POR CLUSTERS
+
+A clusterização(Figura 17) levou em conta a quantidade de jogos comprados,
+criando áreas em comuns entre os grupos de acordo com a quantidade de jogos
+comprados, mas não tendo grupos totalmente em comum entre eles. Com a análise
+dos outros dados cruzados com os clusters, pode-se encontrar áreas em comum de
+
+cada cluster, e assim criar grupos específicos e até mesmo nomeá-los de acordo
+com suas características.
+
+35

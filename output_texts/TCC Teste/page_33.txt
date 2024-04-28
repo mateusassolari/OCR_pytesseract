@@ -1,0 +1,38 @@
+Figura 13 - Jogos de R$35.80 a R$107.99 por jogos comprados
+
+X: R$ 35,79 à€” R$ 107.99 (Num) v | Y: Games Buyed (Num) v
+Colour: Cluster (Nom) Select Instance v
+
+R
+
+et
+
+Clear Open Save Jte O
+
+Plot: dados final final - dados.csv (5)-weka.filters.unsupervised,.attribute.Remove-R1,21-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-...
+x
+
+* " x "
+0.5 1 x x
+o T
+
+o0.5 1
+Class colour
+
+cluster0 clusterl cluster2 cluster3 cluster4 cluster5 cluster6
+FONTE: O AUTOR (2023)
+Figura 14 - Jogos de R$108.00 a R$148.99 por jogos comprados
+
+X: R$ 107.99 â€" R$ 148.99 (Num) v — Y: Games Buyed (Num) v
+Colour: Cluster (Nom) v — Selectinstance v
+
+Clear Open Save Jiter &
+
+Plot: dados final final - dados.csv (5)-weka.filters.unsupervised.attribute.Remove-R1,21-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-...
+
+Class colour
+
+cluster0O clusterl cluster2 cluster3 cluster4 cluster5S cluster€
+FONTE: O AUTOR (2023)
+
+33

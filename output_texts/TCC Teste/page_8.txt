@@ -1,0 +1,37 @@
+1 INTRODUÇÃO
+
+É de conhecimento geral que na última década os jogos digitais ficaram mais
+comuns entre os brasileiros, desde a criança com seu videogame, até o idoso em
+seu celular. No último ano, o mercado de jogos brasileiro movimentou cerca de 1,6
+milhões de dólares (Newzoo, 2022), ou seja, o brazileiro está entre os maiores
+consumidores do mercado mundial de jogos.
+
+Existem poucos estudos  (Vladilava,2021; Lindgren, 2010; Lopes
+Ferreira,2017) que buscam como os jogadores compram seus jogos e como escolhe
+quais irá gastar seu dinheiro, informação que buscaremos responder, utilizando
+bases de dados públicas de perfis de usuários da Steam, uma das maiores lojas
+online de jogos de Computador, e quais tipos de jogos ele prefere, sua taxa de
+abandono do produto, se as compras são feitas por impulso e etc.
+
+Durante as pesquisas em periódicos como o SciELO não foram encontradas
+pesquisas brasileiras utilizando dados de usuários da Steam para realizar estudos
+comportamentais, mas ao expandirmos para o Google Scholar, encontramos artigos
+que abordam fatos como sistemas de conquistas e medalhas nos perfis dos usuários
+(Rizani, M.N.; Khalid, M.N.A.; lida, H, 2023) ou dados dos usuários como quantidade
+de posts, vídeos postados, nível na plataforma e etc. para definir em grupos
+relacionados (Li, X., Lu, C., Peltonen, J., & Zhang, Z. 2019), então um estudo
+analisando valor monetário, horas gastas, porcentagem de jogos jogados pode
+auxiliar a compreender o comportamento consumidor de forma mais direta e assim
+auxiliar a área.
+
+No trabalho proposto serão informados dados que justifiquem a escolha da
+plataforma escolhida para a pesquisa, quais as questões que buscam ser
+respondidas com a análise dos dados, qual a metodologia utilizada para se
+conseguir realizar essa análise, e a fundamentação teórica que auxilia ao melhor
+entendimento do estudo como um todo.
+
+1.1 OBJETIVOS DA PESQUISA
+
+Os Objetivos de Pesquisa deste trabalho são divididos em Gerais e
+
+Específicos:

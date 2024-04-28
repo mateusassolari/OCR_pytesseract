@@ -1,0 +1,37 @@
+4 RESULTADOS
+
+Utilizando o estudo disponível na plataforma Statista, foi realizado o cálculo
+do tamanho de amostra necessária, onde com o grau de confiança de 95%, margem
+de erro de 5%, retornou um tamanho da amostra de 400 usuários. Para o estudo,
+utilizou-se o tamanho da amostra de 1534 usuários da plataforma, tendo assim uma
+margem de erro de 3%, número encontrado de acordo com o que foi obtido durante
+a utilização dos crawlers e após a filtagem dos mesmos, excluindo os dados
+daqueles que não possuíam valores nos seus perfis ou horas jogadas.
+
+Utilizando o shell do Linux foram utilizados os seguintes comandos:
+curl https://steamladder.com/ladder/friends/br/ --output most-friends-br.txt
+curl https://steamladder.com/ladder/game bans/br/ --output mostgameban-br.txt
+curl https://steamladder.com/ladder/steam age/br/ --output steam-age-br.txt
+curl https://steamladder.com/ladder/playtime/br/ --output playtime-br.txt
+
+Esses comandos geram os arquivos .txt que possuem os IDs selecionados,
+que foram filtrados com os seguintes comandos:
+
+grep 'onclick=Vlocation.href'º games-br.txt |grep -v donate|grep -v steamladder
+lawk -F '/' "(print $3Y' e “grep -v donate|grep -v steamladder”
+
+Resultando assim em um arquivo .txt que foi utilizado para aplicação nas APIs
+
+Utilizando um script Python realizamos a filttagem dos usuários que são
+brasileiros e tem sua configuração de perfil como pública, e posteriormente
+utilizamos o segundo script para realizarmos a filtragem daqueles que possuíam sua
+biblioteca de jogos, resultando assim em 1426 usuários identificados como válidos
+para a análise. Foi utilizado em sequência um script para a extração dos dados, que
+gerou respostas em arquivos e foi necessário transformar eles para arquivos HTML,
+os quais foram analisados e foi criado o script, que iria alocar as informações
+
+necessárias em um único arquivo .csv (Figura 4)para ser utilizado no software Weka.
+
+Figura 4 - Exemplo da planilha gerada
+
+23

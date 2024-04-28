@@ -1,0 +1,27 @@
+2.5 STEAMDB
+
+A SteamDB é uma plataforma online que fornece uma variedade de
+informações e estatísticas sobre jogos disponíveis na plataforma Steam. Ela atua
+como uma ferramenta para os usuários explorarem e acompanharem dados
+relacionados a jogos, preços, atualizações, análises de popularidade e muito mais. À
+principal função do SteamDB é monitorar e coletar dados diretamente da plataforma
+Steam, oferecendo aos usuários acesso a informações detalhadas sobre os jogos.
+Essas informações podem incluir dados sobre o número de jogadores ativos,
+conquistas desbloqueadas, vendas, análises de popularidade, histórico de preços,
+atualizações e até mesmo informações técnicas sobre os jogos, como requisitos de
+sistema e configurações (SteamDB,2023).
+
+A importância da SteamDB reside na sua capacidade de fornecer dados e
+informações detalhadas aos usuários da Steam. Ela ajuda os jogadores a tomarem
+decisões informadas sobre quais jogos comprar, acompanhar o desempenho de
+jogos populares, identificar tendências e descobrir novos jogos com base em suas
+preferências. Além disso, a plataforma também é útil para desenvolvedores e
+profissionais da indústria de jogos, pois oferece insights e análises valiosas sobre o
+mercado e a performance dos jogos.
+
+É importante mencionar que a SteamDB não é afiliada à Valve Corporation, a
+empresa por trás da plataforma Steam, mas é uma fonte de dados confiável e
+amplamente utilizada por jogadores e entusiastas da indústria de jogos, visto que ela
+busca os dados diretamente da API da Steam.
+
+14

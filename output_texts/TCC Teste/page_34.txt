@@ -1,0 +1,39 @@
+Figura 15 - Jogos de R$148.99 ou mais por jogos comprados
+
+X: R$ 14,899 and higher (Num) v | Y: Games Buyed (Num)
+
+Colour: Cluster (Nom) v | SelectInstance
+
+Clear Open Save te O
+
+Plot: dados final final - dados.csv (5)-weka filters.unsupervised.attribute.Remove-R1,21-weka filters.unsupervised.attribute.Normalize-S1.0-T0.0-...
+x Z
+
+x
+xmAxto
+X xx
+
+xx " )ãx *x x
+';xwzfx* S x
+
+L *x
+
+Í%ê%fàx; ' x
+
+Class colour
+
+cluster0 clusterl cluster2 cluster3 clusterá clusterS cluster6
+
+FONTE: O AUTOR (2023)
+
+4.,5 JOGOS SEM VALOR POR JOGOS COMPRADOS
+
+A quantidade de jogos gratuitos não está relacionada com a quantidade de
+jogos comprados, visto a ausência de casos na área central superior do
+quadro(Figura 16), mas podemos notar grande acúmulo de usuários com um
+número de jogos comprados similar ao número de jogos gratuitos na conta,
+demonstrando que grande parte dos jogadores tem o padrão de jogar produtos
+
+gratuitos disponíveis na plataforma.
+
+34

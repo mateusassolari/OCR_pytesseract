@@ -1,0 +1,32 @@
+RESUMO
+
+A indústria de jogos digitais tem experimentado um crescimento significativo
+nos últimos anos, e o mercado brasileiro não é exceção. Com o avanço da
+tecnologia e a popularização das plataformas de distribuição digital, como a Steam,
+tornou-se fundamental compreender o comportamento dos usuários brasileiros
+nesse ambiente.
+
+Neste contexto, este artigo descreve uma análise de dados dos usuários
+brasileiros da plataforma Steam, utilizando a API fornecida pela plataforma para
+coletar informações sobre seus hábitos de consumo de jogos. A base de dados
+resultante foi aplicada ao software Weka, ferramenta de mineração de dados, com o
+objetivo de identificar padrões no comportamento dos usuários brasileiros da Steam,
+resultando que os mesmos tendem a gastar com jogos de valores baixos e
+apresentam um padrão de tempo de jogo relativamente baixo.
+
+A relevância deste estudo tanto para a plataforma Steam quanto para
+desenvolvedores de jogos, é fornecer insights sobre o comportamento do mercado
+brasileiro. Os desenvolvedores podem ajustar suas estratégias de precificação e
+conteúdo para atender melhor às preferências dos usuários brasileiros. Outro uso
+destes dados é que a Steam pode direcionar campanhas de marketing específicas
+para esse público, destacando jogos de valores mais baixos e oferecendo benefícios
+adicionais para incentivar maior engajamento.
+
+Essa análise demonstra a utilidade da API da Steam para coletar dados
+valiosos sobre os usuários e a eficácia do software Weka na mineração desses
+dados. A combinação dessas ferramentas permite uma análise mais profunda e
+precisa do comportamento dos usuários, proporcionando informações valiosas para
+
+tomadas de decisão estratégicas e personalização de serviços na indústria de jogos.
+
+Palavras-chave: Jogos Digitais ; Padrão de Consumo; Análise de Dados

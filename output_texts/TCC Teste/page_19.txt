@@ -1,0 +1,38 @@
+3 METODOLOGIA DE PESQUISA
+
+Fluxograma 1 - Fluxograma da Metodologia
+
+API
+GetPlayerSummaries
+
+Usuário publico?
+
+Descarte o ID
+
+Armazenamento
+do ID
+
+API GetOwnedGames
+
+Descarte o ID ão Biblioteca pública?
+
+Sim
+WebCrawler Armazena no
+SteamDB CSV p/ Weka
+
+FONTE: O AUTOR (2023)
+
+Para a realização deste trabalho, será aplicada a metodología (fluxograma 1)
+utilizada por Orlando (2014a,2014b) no seu texto /Introducing Steam Gauge: Ars
+reveals steam's most popular games, é demonstrado que para se acessar perfil da
+Steam utiliza-se o ID, um código de 17 números decimais individual de cada conta,
+iniciados no número 76561197960265729, que caminha de forma sequencial a partir
+do mesmo, possuindo a partir disso cerca de 172 milhões de páginas, com alguns
+sendo inválidos, acessando assim todas as páginas de perfis de usuários da
+plataforma. Com um crawler ,um sistema que percorre a web coletando dados de
+forma automática, acessando todos os perfis existentes, criando uma base de dados
+que possua as informações necessárias para o estudo. Utilizando dados publicados
+
+na plataforma Statista (2018) cerca de 4.77% da população total da Steam em abril
+
+19
