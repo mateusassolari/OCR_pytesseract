@@ -1,0 +1,68 @@
+import os
+from tkinter import Tk, Listbox, Button, messagebox
+from pdf2image import convert_from_path
+import pytesseract
+import subprocess
+from pathlib import Path
+
+def extract_text_from_image(image):
+    return pytesseract.image_to_string(image, lang='por')
+
+def save_text(text, file_path):
+    with open(file_path, 'w', encoding='utf-8') as file:
+        file.write(text)
+
+def process_page(page, output_folder, index):
+    text = extract_text_from_image(page)
+    output_path = os.path.join(output_folder, f'page_{index}.txt')
+    save_text(text, output_path)
+    print(f'Texto da página {index} salvo em: {output_path}')
+
+def process_pdf(pdf_path, output_folder):
+    pages = convert_from_path(pdf_path)
+
+    # Obtendo o nome do PDF sem a extensão
+    pdf_name = Path(pdf_path).stem
+
+    # Criando uma pasta para o PDF se ela não existir
+    pdf_output_folder = os.path.join(output_folder, pdf_name)
+    if not os.path.exists(pdf_output_folder):
+        os.makedirs(pdf_output_folder)
+
+    # Processando cada página
+    for i, page in enumerate(pages):
+        process_page(page, pdf_output_folder, i+1)
+
+    # Abrindo a pasta dos arquivos TXT
+    subprocess.Popen(f'explorer "{pdf_output_folder}"')
+
+def on_pdf_selection():
+    selected_indices = listbox.curselection()
+    if not selected_indices:
+        messagebox.showerror("Erro", "Por favor, selecione um arquivo PDF.")
+        return
+    selected_file = listbox.get(selected_indices[0])
+    pdf_path = os.path.join(os.getcwd(), selected_file)
+    output_folder = 'output_texts'
+    
+    process_pdf(pdf_path, output_folder)
+    messagebox.showinfo("Concluído", f"Processamento de {selected_file} concluído!")
+
+def list_pdf_files():
+    files = [f for f in os.listdir(os.getcwd()) if f.endswith('.pdf')]
+    return files
+
+root = Tk()
+root.title("Seletor de PDF para OCR")
+
+listbox = Listbox(root, width=50, height=10)
+listbox.pack(pady=20)
+
+pdf_files = list_pdf_files()
+for file in pdf_files:
+    listbox.insert('end', file)
+
+process_button = Button(root, text="Processar PDF", command=on_pdf_selection)
+process_button.pack(pady=10)
+
+root.mainloop()
